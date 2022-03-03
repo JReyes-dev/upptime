@@ -5,8 +5,6 @@ repo: upptime # The name of this repository
 sites:
   - name: SIPP
     url: https://sipp.petroil.com.mx
-  - name: Portal de Clientes
-    url: https://asociados.petroil.com.mx
   - name: Gitlab
     url: https://git.grupopetroil.com.mx
   - name: HelpDesk
@@ -23,10 +21,6 @@ sites:
     url: https://grupopetroil.com.mx
   - name: WPAeneFoods
     url: https://aenefoods.com.mx
-  - name: rentabilidad
-    url: https://rentabilidad.grupopetroil.com.mx/
-  - name: tableros
-    url: https://tableros.petroil.com.mx/
 assignees:
   - JReyesPetroil
 
